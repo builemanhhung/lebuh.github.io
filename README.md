@@ -1,4 +1,5 @@
 👋 Hi, I'm Le Manh Hung Bui
+![photo](https://github.com/user-attachments/assets/dd34bf3d-ab9e-480a-82cc-f53beb210f81)
 
   🎯 Aspiring Actuary | Data Analyst | Mathematics & Data Science Enthusiast
   
