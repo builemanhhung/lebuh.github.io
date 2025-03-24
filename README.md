@@ -1,7 +1,7 @@
 👋 Hi, I'm Le Manh Hung Bui
 🎯 Aspiring Actuary | Data Analyst | Mathematics & Data Science Enthusiast
 📍 University of Houston, Class of 2024 | 4.00 GPA
-📧 lebuh.cr@gmail.com | 📞 281-425-5339
+📧 lebuh.cr@gmail.com |
 🔗 LinkedIn
 
 📊 Skills
