@@ -11,11 +11,11 @@
 📊 Skills
 
 
-  Databases: MySQL
+    Databases: MySQL
   
-  Analytics Tools: MS Excel, Tableau, Power BI
+    Analytics Tools: MS Excel, Tableau, Power BI
   
-  Programming Languages: SQL, R, Python, MATLAB
+    Programming Languages: SQL, R, Python, MATLAB
   
 
 🎓 Education
@@ -24,7 +24,7 @@
   
     📌 Bachelor of Science
     
-    📌Mathematics Major - Data Science Minor
+    📌 Mathematics Major - Data Science Minor
     
     📌 GPA: 4.00/4.00
     
@@ -42,9 +42,9 @@
 
 📜 Actuarial Certifications
 
-  Exam P (Probability): Passed with Grade 9 (Mar 2024)
+    Exam P (Probability): Passed with Grade 9 (Mar 2024)
   
-  Exam FM (Financial Mathematics): Passed with Grade 10 (Oct 2024)
+    Exam FM (Financial Mathematics): Passed with Grade 10 (Oct 2024)
   
 
 💡 Featured Projects
