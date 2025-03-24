@@ -42,9 +42,9 @@
 
 📜 Actuarial Certifications
 
-    Exam P (Probability): Passed with Grade 9 (Mar 2024)
+    Exam P (Probability): Grade 9 (Mar 2024)
   
-    Exam FM (Financial Mathematics): Passed with Grade 10 (Oct 2024)
+    Exam FM (Financial Mathematics): Grade 10 (Oct 2024)
   
 
 💡 Featured Projects
