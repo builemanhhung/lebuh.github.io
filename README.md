@@ -10,6 +10,7 @@
 
 📊 Skills
 
+
   Databases: MySQL
   
   Analytics Tools: MS Excel, Tableau, Power BI
@@ -21,7 +22,9 @@
 
   University of Houston, Houston, TX
   
-    📌 Bachelor of Science, Mathematics Major - Data Science Minor
+    📌 Bachelor of Science
+    
+    📌Mathematics Major - Data Science Minor
     
     📌 GPA: 4.00/4.00
     
@@ -85,8 +88,8 @@
 
 🌍 Additional Information
 
-    Organizations: Society of Actuaries, Gamma Iota Sigma - Alpha Upsilon Chapter
+    Organizations: SOA, GIS - Alpha Upsilon Chapter
     
     Languages: English, Vietnamese
     
-    Work Eligibility: U.S. Citizen (Eligible for internships & full-time roles)
+    Work Eligibility: U.S. Citizen
